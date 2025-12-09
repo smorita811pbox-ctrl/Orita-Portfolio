@@ -486,7 +486,7 @@ export default function Portfolio() {
           <div className="accent"></div>
           <div className="profile-card">
             <div className="profile-pic">
-              <img src="Photos/myprofile.png" alt="Profile Photo" />
+              <img src="/Photos/myprofile.png" alt="Profile Photo" />
             </div>
             <p className="desc">
               I'm a passionate UI Designer dedicated to creating clean, user-friendly, and visually engaging interfaces.
@@ -501,24 +501,24 @@ export default function Portfolio() {
         <h2 className="section-title">PORTFOLIO</h2>
         <div className="portfolio-container">
           <div className="portfolio-card">
-            <img src="Photos/petwebsite.jpg" alt="Pet Website" className="portfolio-img" />
+            <img src="/Photos/petwebsite.jpg" alt="Pet Website" className="portfolio-img" />
             <p>I designed a welcoming and playful landing page for a pet website. The goal was to create a friendly look that connects with pet lovers while maintaining clarity and balance in layout.</p>
             <div className="card-tools">
-              <img src="Photos/htmlcss.jpg" alt="HTML-CSS Logo" />
+              <img src="/Photos/htmlcss.jpg" alt="HTML-CSS Logo" />
             </div>
           </div>
           <div className="portfolio-card">
-            <img src="Photos/delivery.jpg" alt="Mobile Delivery App" className="portfolio-img" />
+            <img src="/Photos/delivery.jpg" alt="Mobile Delivery App" className="portfolio-img" />
             <p>I designed a mobile delivery app that helps users browse, order, and track deliveries easily. The focus was on intuitive navigation and minimalistic iconography.</p>
             <div className="card-tools">
-              <img src="Photos/figma.jpg" alt="Figma Logo" />
+              <img src="/Photos/figma.jpg" alt="Figma Logo" />
             </div>
           </div>
           <div className="portfolio-card">
-            <img src="Photos/enrollment.jpg" alt="School Enrollment System" className="portfolio-img" />
+            <img src="/Photos/enrollment.jpg" alt="School Enrollment System" className="portfolio-img" />
             <p>I designed a School Enrollment System UI in Figma to make the enrollment process simple and user-friendly. It includes login, registration, and dashboard screens.</p>
             <div className="card-tools">
-              <img src="Photos/figma.jpg" alt="Figma Logo" />
+              <img src="/Photos/figma.jpg" alt="Figma Logo" />
             </div>
           </div>
         </div>
